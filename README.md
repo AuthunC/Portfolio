@@ -1,2 +1,2 @@
-This is Old one. I am working on new one using React.
+I am working on new one using React.
 # Portfolio
